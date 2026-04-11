@@ -3,7 +3,11 @@ import pandas as pd
 import tabula
 
 # Title & description
-st.title("🚀 Smart PDF to Excel Converter")
+st.title("Convert Bank Statement PDF to Excel in Seconds")
+st.write("Upload your bank statement PDF and get a clean Excel file instantly.")
+st.write("✔ Supports most bank formats")
+st.write("✔ No signup required")
+st.write("✔ Free to use")
 st.write("Upload your PDF and convert it into clean Excel instantly")
 st.info("⚡ Fast | 📊 Clean Data | 🤖 AI Powered")
 
